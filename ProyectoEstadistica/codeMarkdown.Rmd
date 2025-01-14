@@ -1,5 +1,0 @@
----
-title: "Análisis de Datos de Ejemplo"
-author: "Tu Nombre"
-output: html_document
----
